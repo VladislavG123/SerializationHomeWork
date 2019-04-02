@@ -1,0 +1,7 @@
+C:\Users\Vlad\source\repos\SerializationHomeWork\SerializationHomeWork\bin\Debug\SerializationHomeWork.exe.config
+C:\Users\Vlad\source\repos\SerializationHomeWork\SerializationHomeWork\bin\Debug\SerializationHomeWork.exe
+C:\Users\Vlad\source\repos\SerializationHomeWork\SerializationHomeWork\bin\Debug\SerializationHomeWork.pdb
+C:\Users\Vlad\source\repos\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.exe
+C:\Users\Vlad\source\repos\SerializationHomeWork\SerializationHomeWork\obj\Debug\SerializationHomeWork.pdb
